@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crossy (Utku)</h1>
 <h3 align="center">Student who likes automating with focus on efficiency and modern design.</h3>
 
-- 🔭 I’m currently working on [MediaHarbor](github.com/mediaharbor)
+- 🔭 I’m currently working on [MediaHarbor](https://github.com/mediaharbor)
 
 - 🌱 I’m currently learning **Java, Kotlin, PHP, Flutter**
 
